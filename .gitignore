@@ -67,3 +67,6 @@ build/
 
 # Debug logs from npm
 npm-debug.log*
+
+# Package lock file (not needed for npm v5+ with package.json)
+package-lock.json
